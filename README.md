@@ -2,14 +2,14 @@
 
 ![ice-forever](https://count.getloli.com/get/@:ice-forever?theme=rule34)
 
-[![ice-forever's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice-forever&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![ice-forever's GitHub stats](https://iceforever.vercel.app/api?username=ice-forever&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-forever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://iceforever.vercel.app/api/top-langs/?username=ice-forever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--非紧凑布局的语言统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-forever)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://iceforever.vercel.app/api/top-langs/?username=ice-forever)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--紧凑布局的语言统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-forever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://iceforever.vercel.app/api/top-langs/?username=ice-forever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
