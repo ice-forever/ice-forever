@@ -4,7 +4,7 @@
 
 [![ice-forever's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice-forever&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-forever)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-forever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
