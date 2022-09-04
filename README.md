@@ -2,7 +2,7 @@
 
 ![ice-forever](https://count.getloli.com/get/@:ice-forever?theme=rule34)
 
-[![ice-forever's GitHub stats](https://iceforever.vercel.app/api?username=ice-forever&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![ice-forever's GitHub stats](https://iceforever.vercel.app/api?username=ice-forever&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://iceforever.vercel.app/api/top-langs/?username=ice-forever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
