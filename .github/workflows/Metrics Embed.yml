@@ -28,6 +28,7 @@ jobs:
           user: ice-forever
           template: classic
           base: header, activity, community, repositories, metadata
+          plugin_languages_ignored : Tcl, Batchfile
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_analysis_timeout: 30
