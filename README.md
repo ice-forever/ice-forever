@@ -6,7 +6,7 @@
 
 [![ice-forever's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice-forever&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-forever&hide=Tcl,Shell,Pascal&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice-forever&hide=Tcl,Shell,Pascal,CSS&langs_count=10&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![https://github.com/Platane/snk](https://raw.githubusercontent.com/ice-forever/ice-forever/output/github-contribution-grid-snake.svg)
 
