@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats-git-master-ice-forever.vercel.app/api/top-langs/?username=ice-forever&hide=Tcl,Shell,Pascal,CSS,HTML,Verilog&langs_count=10&layout=compact&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-git-master-ice-forever.vercel.app/api/wakatime?username=ice-forever&hide=Tcl,Shell,Pascal,CSS,HTML,Verilog&langs_count=10&layout=compact&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
 ![https://github.com/Platane/snk](https://raw.githubusercontent.com/ice-forever/ice-forever/output/github-contribution-grid-snake.svg)
 
 <!--非紧凑布局的语言统计
