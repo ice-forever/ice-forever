@@ -1,7 +1,7 @@
 ![ice-forever](https://count.getloli.com/get/@:ice-forever?theme=rule34)
-
+<!--
 ![Metrics](https://metrics.lecoq.io/ice-forever?template=classic&base.activity=0&base.community=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
-
+-->
 
 
 [![ice-forever's GitHub stats](https://github-readme-stats-git-master-ice-forever.vercel.app/api?username=ice-forever&count_private=true&show_icons=true&theme=swift&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
